@@ -1,0 +1,77 @@
+.pokemons-list-container {
+    margin: 0 10px 0 0;
+}
+  
+.pokemons-list-container__buttons {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+  
+.pokemons-list-container__button_previous {
+    color:#00c6ff;
+    padding: 5px 10px;
+    width: 90%;
+    text-decoration: none;
+    text-align: center;
+    margin: 10px auto 0 auto;
+    height: 35px;
+    background-image: linear-gradient(to right, transparent, transparent 50%, #00c6ff 50%, #00c6ff);
+    background-position: left bottom;
+    background-size: 200% 100%;
+    transition: all .25s ease-in;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.1em;
+    border: 1px solid #00C6FF;
+    border-radius: 10px;
+}
+  
+.pokemons-list-container__button_previous:hover {
+    background-position: right bottom;
+    color: #fff;
+}
+   
+.pokemons-list-container__button_previous:active {
+     opacity: 0.7;
+     outline: none;
+}
+   
+.pokemons-list-container__button_previous:focus {
+     outline: none;
+}
+  
+.pokemons-list-container__button_next {
+    color: #00c6ff;
+    padding: 5px 10px;
+    width: 90%;
+    text-decoration: none;
+    text-align: center;
+    margin: 10px auto 10px auto;
+    height: 35px;
+    background-image: linear-gradient(to left, transparent, transparent 50%,#00c6ff 50%,#00c6ff);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    transition: all .25s ease-in;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.1em;
+    border: 1px solid #00c6ff;
+    border-radius: 10px;
+}
+  
+.pokemons-list-container__button_next:hover {
+   background-position: 0 0;
+   color:#fff;
+}
+  
+.pokemons-list-container__button_next:active {
+    opacity: 0.7;
+    outline: none;
+}
+  
+.pokemons-list-container__button_next:focus {
+    outline: none;
+}
