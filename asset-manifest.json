@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pokemons-react-hooks/static/css/main.e02cd078.chunk.css",
+    "main.js": "/pokemons-react-hooks/static/js/main.f1133d53.chunk.js",
+    "main.js.map": "/pokemons-react-hooks/static/js/main.f1133d53.chunk.js.map",
+    "runtime-main.js": "/pokemons-react-hooks/static/js/runtime-main.ac31d0f4.js",
+    "runtime-main.js.map": "/pokemons-react-hooks/static/js/runtime-main.ac31d0f4.js.map",
+    "static/js/2.59d0607b.chunk.js": "/pokemons-react-hooks/static/js/2.59d0607b.chunk.js",
+    "static/js/2.59d0607b.chunk.js.map": "/pokemons-react-hooks/static/js/2.59d0607b.chunk.js.map",
+    "static/js/3.2588bd5b.chunk.js": "/pokemons-react-hooks/static/js/3.2588bd5b.chunk.js",
+    "static/js/3.2588bd5b.chunk.js.map": "/pokemons-react-hooks/static/js/3.2588bd5b.chunk.js.map",
+    "index.html": "/pokemons-react-hooks/index.html",
+    "static/css/main.e02cd078.chunk.css.map": "/pokemons-react-hooks/static/css/main.e02cd078.chunk.css.map",
+    "static/js/2.59d0607b.chunk.js.LICENSE.txt": "/pokemons-react-hooks/static/js/2.59d0607b.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/pokemons-react-hooks/static/media/logo.a73c97cb.svg",
+    "static/media/Pokemons.css": "/pokemons-react-hooks/static/media/nav_icon_true.06bbcc72.svg",
+    "static/media/index.css": "/pokemons-react-hooks/static/media/roboto-regular.59d18e16.woff",
+    "static/media/Search.css": "/pokemons-react-hooks/static/media/search-button.4cce3a70.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac31d0f4.js",
+    "static/js/2.59d0607b.chunk.js",
+    "static/css/main.e02cd078.chunk.css",
+    "static/js/main.f1133d53.chunk.js"
+  ]
+}
